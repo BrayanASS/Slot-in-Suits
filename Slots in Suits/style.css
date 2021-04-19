@@ -1,0 +1,149 @@
+body {
+	background-color: #778899;
+}
+
+h1 {
+	text-align: center;
+	font: normal 40px Bebas;
+	color: #5F9EA0;
+	box-shadow: 5px 5px 10px #000000;
+	border-radius: 8px;
+	border-style: outset;
+
+}
+
+
+a {
+	color: #000000;
+}
+
+a:hover {
+	color: #000000;
+}
+
+#corpo {
+	margin-left: auto;
+	margin-top: 68px;
+	margin-right: auto;
+	width: 700px;
+	height: 500px;
+	background-color: #EFC88B;
+	border-style: outset;
+	border-radius: 50px;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.562);
+}
+
+#corpo2 {
+	margin-left: auto;
+	margin-right: auto;
+	width: 700px;
+	height: 1050px;
+	background-color: #EFC88B;
+	border-style: outset;
+	border-radius: 50px;
+	box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.562);
+}
+
+#tela {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+	width: 500px;
+	height: 100px;
+	background-color: white;
+	border: groove 5px;
+}
+
+#botoes {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 15px;
+	width: 460px;
+}
+
+#creditos_txt {
+	margin-left: 55px;
+	margin-top: 20px;
+	font-weight: bold;
+	float: left;
+	font: normal 25px Arial;
+}
+
+#creditos {
+	clear: left;
+	margin-left: 55px;
+	float: left;
+}
+
+#valor_txt {
+	margin-left: 470px;
+	margin-top: -6px;
+	font-weight: bold;
+	font: normal 25px Arial;
+}
+
+#valor {
+	margin-left: 575px;
+}
+
+#slot1 {
+	margin-top: 5px;
+	padding-left: 17px;
+	padding-right: 17px;
+	float: left;
+	border-right: thin dashed black;
+	width: 90px;
+	height: 90px;
+	vertical-align: middle;
+}
+
+#slot2 {
+	margin-top: 5px;
+	padding-left: 17px;
+	padding-right: 17px;
+	float: left;
+	border-right: thin dashed black;
+	width: 90px;
+	height: 90px;
+	vertical-align: middle;
+}
+
+#slot3 {
+	margin-top: 5px;
+	padding-left: 17px;
+	padding-right: 17px;
+	float: left;
+	border-right: thin dashed black;
+	width: 90px;
+	height: 90px;
+	vertical-align: middle;
+}
+
+#slot4 {
+	margin-top: 5px;
+	padding-left: 17px;
+	padding-right: 17px;
+	float: left;
+	width: 90px;
+	height: 90px;
+	vertical-align: middle;
+}
+
+#rodap� {
+	margin-left: 113px;
+	margin-top: 80px;
+}
+
+#tabela {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-weight: bold;
+}
+
+#titulo {
+	text-align: center;
+	font: normal 40px Arial;
+	color: #00000075;
+	padding: 1px;
+}
